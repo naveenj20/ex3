@@ -3,7 +3,6 @@
 
 # EXERCISE-3
 
-Date: 01/09/2025
 
 # AIM:
 
